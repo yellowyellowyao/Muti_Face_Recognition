@@ -31,5 +31,5 @@ train_CNN.py
 ### 人脸识别：
 whose_face.py
 
-此外，example中基于武林外传提供了一个已经训练好的预测器。能够识别出六位主角及其他人的七个分类，综合正确率在90%以上。
+此外，example中基于武林外传提供了一个已经训练好的预测器。能够识别出六位主角及其他人的七个分类，综合正确率约为90%。
 ![](https://github.com/yellowyellowyao/Muti_Face_Recognition/blob/master/example/rate.jpg)
