@@ -10,6 +10,7 @@
 
 #### tensorflow:
 pip install tensorflow      #cpu版本
+
 pip install rensorflow-gpu  #gpu版本，需要cuda与cudnn的支持，不清楚的可以选择cpu版
 
 #### numpy:
